@@ -12,11 +12,11 @@
 
 ---
 
-## FrontEnd
+**FrontEnd**
 서버사이드 렌더링(SSR)을 통해 동적으로 HTML 페이지를 생성하고 클라이언트와 서버 간 데이터를 처리.
 - **Repository URL**: [Front Repo]
 
-## BackEnd
+**BackEnd**
 다양한 비즈니스 로직을 처리하는 서버.
 - **Repository URL**: [API Repo]
 
